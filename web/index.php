@@ -26,11 +26,11 @@
         </p>
 
         <div class="h-1 w-full bg-black mt-8 rounded-full">
-            <div class="h-1 rounded-full w-2/5 bg-yellow-500 "></div>
+            <div class="h-1 rounded-full w-36 bg-yellow-500 "></div>
         </div>
         <div class="mt-3 text-white text-sm">
-            <span class="text-gray-400 font-semibold">Storage:</span>
-            <span>40%</span>
+            <span class="text-gray-400 font-semibold">Mastery:</span>
+            <span>80%</span>
         </div>
 
     </section>
